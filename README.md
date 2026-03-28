@@ -157,10 +157,6 @@ This evaluates:
 - how well the model fits the training data
 - how well it generalizes to unseen data
 
-For recruiters, this is an important part of the project because it shows that you understand:
-- the difference between training and testing performance
-- model validation basics
-- how to measure classification accuracy
 
 ---
 
@@ -307,73 +303,13 @@ pip install -r requirements.txt
 streamlit run frontend/sonar_ai_dashboard.py
 ```
 
----
-
-
-
-### Recommended repository name
-- `sonar-rock-vs-mine-classification`
-- `sonar-signal-classification-ml`
-- `rock-vs-mine-machine-learning`
-
-### Recommended GitHub description
-> Machine learning project for sonar signal classification using Logistic Regression, with model evaluation, prediction pipeline, and a lightweight Streamlit demo.
-
-### Best presentation strategy
-1. Put **machine learning** in the title and first paragraph
-2. Mention **Logistic Regression**, **classification**, and **model evaluation**
-3. Keep Streamlit as a supporting demo, not the main headline
-4. Add screenshots of:
-   - home page
-   - prediction result
-   - analytics page
-5. If possible, add:
-   - training notebook
-   - dataset explanation
-   - model metrics section
-   - deployment link
-
-### Suggested GitHub topics
-- `machine-learning`
-- `classification`
-- `scikit-learn`
-- `python`
-- `logistic-regression`
-- `data-science`
-- `streamlit`
-- `sonar`
-
----
-
-## Short Recruiter Pitch
-
-You can use this on GitHub, CV, or LinkedIn:
-
-> Built a machine learning classification system to identify sonar signals as rock or mine using Logistic Regression. Performed data preprocessing, train/test splitting, model evaluation, predictive inference, and model serialization, then integrated the trained model into a lightweight Streamlit dashboard for demonstration.
-
----
-
-## Future Improvements
-
-To make this project even stronger:
-- add the original training notebook to the repository
-- include dataset source and details
-- compare Logistic Regression with other classifiers
-- add confusion matrix and classification report
-- include cross-validation
-- deploy the Streamlit demo online
-- add screenshots and demo GIF
-- document final training and test accuracy in the README
-
----
-
 ## Author
 
-**Your Name**  
-Machine Learning / Data Science / Python Developer
+**Nasiha**  
+Computer Science / Machine Learning / Python Developer
 
-GitHub: `https://github.com/your-username`  
-LinkedIn: `https://linkedin.com/in/your-linkedin`
+GitHub: `(https://github.com/Nasiha-MH)`  
+LinkedIn: `https://www.linkedin.com/in/nasiha-mh/`
 
 ---
 
