@@ -308,8 +308,8 @@ streamlit run frontend/sonar_ai_dashboard.py
 **Nasiha**  
 Computer Science / Machine Learning / Python Developer
 
-GitHub: `(https://github.com/Nasiha-MH)`  
-LinkedIn: `https://www.linkedin.com/in/nasiha-mh/`
+GitHub: `[https://github.com/Nasiha-MH]`  
+LinkedIn: `[https://www.linkedin.com/in/nasiha-mh/]`
 
 ---
 
